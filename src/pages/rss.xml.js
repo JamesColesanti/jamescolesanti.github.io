@@ -8,5 +8,6 @@ export async function get(context) {
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
     site: import.meta.env.SITE,
+    items: ''
   });
 }
