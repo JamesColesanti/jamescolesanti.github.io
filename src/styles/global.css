@@ -21,7 +21,7 @@ body, html {
   
   /* Style for the image */
   .container img {
-    max-width: 200px; /* Set maximum width for the image */
+    max-width: 1000px; /* Set maximum width for the image */
     height: auto; /* Maintain aspect ratio */
     margin-right: 20px; /* Add spacing between image and text */
   }
