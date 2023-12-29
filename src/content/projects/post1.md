@@ -1,7 +1,7 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "C/Place: Collaborative Pixel-Art Board"
+description: "Multiplayer game added to existing application for software engineering class final project"
+pubDate: "February 2023 - April 2023"
 heroImage: "/CPlaceCover.png"
 tags: ["tokio"]
 ---
