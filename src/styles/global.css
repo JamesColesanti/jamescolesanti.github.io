@@ -1,3 +1,8 @@
 .time-line-container>div:last-child .education__time>.education__line {
     display: none;
 }
+
+.bigger-div {
+    width: 3000px; /* Set the desired width */
+    height: 2000px; /* Set the desired height */
+}
