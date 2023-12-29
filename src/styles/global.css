@@ -6,3 +6,27 @@
     width: 500px;
     height: 200px;
 }
+
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style for the container */
+  .container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Align items vertically */
+  }
+  
+  /* Style for the image */
+  .container img {
+    max-width: 200px; /* Set maximum width for the image */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 20px; /* Add spacing between image and text */
+  }
+  
+  /* Style for the text */ */
+  /* .text {
+    /* Add styles for text here */
+  /* } */
