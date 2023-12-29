@@ -1,7 +1,7 @@
 ---
 title: "C/Place: Collaborative Pixel-Art Board"
 description: "Multiplayer game added to existing application for software engineering class final project"
-pubDate: "February 2023 - April 2023"
+pubDate: "April 2023"
 heroImage: "/CPlaceCover.png"
 tags: ["tokio"]
 ---
