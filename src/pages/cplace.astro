@@ -10,52 +10,22 @@ import CPlaceCover from "../../public/CPlaceCover.png";
     <div>
         <div class="text-3xl w-full font-bold mb-5" bigger-div>C/Place: Collaborative Pixel-Art Board</div>
     </div>
-    
-    <div class="container">
-  <div class="top-left">
-    <img
-        src={CPlaceCover.src}
-        width="1500px"
-        height="1000px"
-        format="webp"
-        alt={"CPlaceCover"}
-        class="max-w-full md:max-w-[13rem] rounded-lg bigger-div"
-    />
-    <div class="description">
-      <h2>Description for Image 1</h2>
-      <p>Text describing the first image goes here. You can wrap it around the image using CSS.</p>
-    </div>
-  </div>
-  <div class="bottom-right">
-    <img
-        src={CPlaceCover.src}
-        width="1500px"
-        height="1000px"
-        format="webp"
-        alt={"CPlaceCover"}
-        class="max-w-full md:max-w-[13rem] rounded-lg bigger-div"
-    />
-    <div class="description">
-      <h2>Description for Image 2</h2>
-      <p>Text describing the second image goes here. You can wrap it around the image using CSS.</p>
-    </div>
-  </div>
-</div>
 
     <div class="container">
-    <img
-        src={CPlaceCover.src}
-        width="1500px"
-        height="1000px"
-        format="webp"
-        alt={"CPlaceCover"}
-        class="max-w-full md:max-w-[13rem] rounded-lg bigger-div"
-    />
-  <div class="text">
-    <h2>Some Text</h2>
-    <p>This is the text that will appear next to the image.</p>
-  </div>
+        <div class="image-with-text">
+            <img
+                src={CPlaceCover.src}
+                width="1500px"
+                height="1000px"
+                format="webp"
+                alt={"CPlaceCover"}
+                class="max-w-full md:max-w-[13rem] rounded-lg bigger-div"
+            />
+            <div class="text">
+            <h2>Some Text</h2>
+            <p>This is the text that will wrap around the image. You can add more content to see how the text flows.</p>
+            </div>
+        </div>
+    </div>
 </div>
-
-
 </BaseLayout>

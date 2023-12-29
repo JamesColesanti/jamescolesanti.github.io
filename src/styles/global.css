@@ -7,7 +7,7 @@
     height: 200px;
 }
 
-/* Reset default margin and padding */
+  /* Reset default margin and padding */
 body, html {
     margin: 0;
     padding: 0;
@@ -17,47 +17,22 @@ body, html {
   .container {
     max-width: 800px; /* Adjust as needed */
     margin: 0 auto; /* Center the container */
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
   }
   
-  /* Style for the image containers */
-  .top-left,
-  .bottom-right {
-    flex-basis: 48%; /* Adjust as needed */
-    position: relative;
+  /* Style for the image with text */
+  .image-with-text {
+    margin-bottom: 20px; /* Add some space between each image/text block */
   }
   
-  /* Style for the images */
-  .top-left img,
-  .bottom-right img {
-    max-width: 100%;
-    height: auto;
+  /* Style for the image */
+  .image-with-text img {
+    float: left; /* Float the image to the left */
+    margin-right: 20px; /* Add some space between the image and text */
   }
   
-  /* Style for the description */
-  .description {
-    position: absolute;
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 10px;
-    bottom: 10px;
-    left: 10px;
-    right: 10px;
+  /* Clear the float */
+  .image-with-text:after {
+    content: "";
+    display: table;
+    clear: both;
   }
-  
-  /* Style for text inside description */
-  .description h2,
-  .description p {
-    margin: 0;
-  }
-  
-  /* Responsive adjustments */
-  @media screen and (max-width: 600px) {
-    .top-left,
-    .bottom-right {
-      flex-basis: 100%;
-      margin-bottom: 20px;
-    }
-  }
-  
