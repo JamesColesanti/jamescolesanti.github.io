@@ -15,18 +15,49 @@ body, html {
   
   /* Style for the container */
   .container {
-    display: flex; /* Use flexbox for layout */
-    align-items: center; /* Align items vertically */
+    max-width: 800px; /* Adjust as needed */
+    margin: 0 auto; /* Center the container */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
   }
   
-  /* Style for the image */
-  .container img {
-    max-width: 1000px; /* Set maximum width for the image */
-    height: auto; /* Maintain aspect ratio */
-    margin-right: 20px; /* Add spacing between image and text */
+  /* Style for the image containers */
+  .top-left,
+  .bottom-right {
+    flex-basis: 48%; /* Adjust as needed */
+    position: relative;
   }
   
-  /* Style for the text */ 
-  /* .text {
-    /* Add styles for text here */
-  /* } */
+  /* Style for the images */
+  .top-left img,
+  .bottom-right img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Style for the description */
+  .description {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+  }
+  
+  /* Style for text inside description */
+  .description h2,
+  .description p {
+    margin: 0;
+  }
+  
+  /* Responsive adjustments */
+  @media screen and (max-width: 600px) {
+    .top-left,
+    .bottom-right {
+      flex-basis: 100%;
+      margin-bottom: 20px;
+    }
+  }
+  
