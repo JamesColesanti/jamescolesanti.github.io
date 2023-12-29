@@ -2,29 +2,11 @@
 title: "Demo Post 1"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 pubDate: "Sep 10 2022"
-heroImage: "/post_img.webp"
+heroImage: "/CPlaceCover.png"
 tags: ["tokio"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
-
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+Our project idea, inspired by the collaborative project r/place on Reddit, is to implement a new type of interactable area that allows users to work together to incrementally contribute to a large digital canvas. The driving idea behind r/place is that “Individually, you can create something, but together, you can create something more,” and our own feature is driven by this core idea. We consider this a way to introduce a more permanent marker of progress in an application that focuses primarily on temporarily interactable areas. Using a grid system where a tile represents one “pixel”, a player can choose to change the color of one square at a time using a color picker. Players can paint over any pixel but are restricted to painting only one per allotted amount of time, to help keep contributions more balanced. This type of interaction introduces a more asynchronous activity that allows users to gradually contribute to a town over time, encouraging them to return to a town to continue their masterpiece and see what others have added to it. Additionally, users can interact through the comments section, and download the artwork as a jpg or mp4 to share with friends. After a certain amount of time has passed, the canvas is wiped to allow a new creation to be made, making space for new forms of expression. Past canvases are stored on an art wall for users to view and rewatch the creation process.
 
 Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
 sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
