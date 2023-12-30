@@ -17,19 +17,19 @@ Our project idea, inspired by the collaborative project r/place on Reddit, was t
 
 ### Major Features
 
-### Canvas
+## Canvas
 
 The canvas is a 128x128 grid that any user can draw on. It features a number of colors users can pick from, as well as a react-eyedrop component that can be used to select a color currently on the grid. At any point, users can download a picture of the canvas as a .jpg file
 
 ![alt text](/Canvas.png)
 
-### Comment Section
+## Comment Section
 
 Underneath the canvas, users can comment on the artwork. Each comment will show the author, as well as the time it was created. Users can also reply directly to previously written comments.
 
 ![alt text](/Comments.png)
 
-### Gallery
+## Gallery
 
 Once a canvas is closed, it is moved to the art gallery. Here, users can view any past canvases. They can download drawings as .jpg files, as well as watch the creation process as a timelapse video.
 
