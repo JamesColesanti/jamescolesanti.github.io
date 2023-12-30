@@ -1,9 +1,9 @@
 ---
-title: "Image Processing App"
-description: "Java application for applying various filters and effects to images"
+title: "Green Infrastructure Web Application"
+description: "Site built for the City of Boston to promote climate justice among residents"
 pubDate: "October 1, 2023"
-heroImage: "/TuneTalkCover.png"
-tags: ["Java", "Java Swing", "MVC"]
+heroImage: "/GICover.png"
+tags: ["TypeScript", "React.js", "Google Maps API", "AWS Cognito"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
