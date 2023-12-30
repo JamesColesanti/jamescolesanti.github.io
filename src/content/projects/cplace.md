@@ -23,6 +23,8 @@ egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
 ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
 purus non. Amet dictum sit amet justo donec enim.
 
+<video src="/CPlaceDemo.mp4" width="320" height="240" controls></video>
+
 Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
 consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
 Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
