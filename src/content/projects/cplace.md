@@ -7,6 +7,18 @@ tags: ["TypeScript", "React.js", "Socket.IO", "Chakra UI", "REST API"]
 ---
 
 Our project idea, inspired by the collaborative project r/place on Reddit, was to implement an interactable area that allowed users to work together to incrementally contribute to a large digital canvas. The driving idea behind r/place is that “Individually, you can create something, but together, you can create something more,” and our own feature is driven by this core idea. We consider this a way to introduce a more permanent marker of progress in an application that focuses primarily on temporarily interactable areas. Using a grid system where a tile represents one “pixel”, a player can choose to change the color of one square at a time using a color picker. Players can paint over any pixel but are restricted to painting only one per allotted amount of time, to help keep contributions more balanced. This type of interaction introduces a more asynchronous activity that allows users to gradually contribute to a town over time, encouraging them to return to a town to continue their masterpiece and see what others have added to it. Additionally, users can interact through the comments section, and download the artwork as a jpg or mp4 to share with friends. After a certain amount of time has passed, the canvas is wiped to allow a new creation to be made, making space for new forms of expression. Past canvases are stored on an art wall for users to view and rewatch the creation process.
+
+<div class="mb-5">
+    <div class="text-3xl w-full font-bold">Links</div>
+</div>
+
+<ul class="list-disc">
+    <li>GitHub Repository: </li>
+    <li>Site Link: </li>
+    <li>Poster: </li>
+    <li>Presentation</li>
+</ul>
+
 ## Major Features
 
 ### Canvas
