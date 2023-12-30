@@ -6,7 +6,11 @@ heroImage: "/CPlaceCover.png"
 tags: ["TypeScript", "React.js", "Socket.IO"]
 ---
 
-Our project idea, inspired by the collaborative project r/place on Reddit, is to implement a new type of interactable area that allows users to work together to incrementally contribute to a large digital canvas. The driving idea behind r/place is that “Individually, you can create something, but together, you can create something more,” and our own feature is driven by this core idea. We consider this a way to introduce a more permanent marker of progress in an application that focuses primarily on temporarily interactable areas. Using a grid system where a tile represents one “pixel”, a player can choose to change the color of one square at a time using a color picker. Players can paint over any pixel but are restricted to painting only one per allotted amount of time, to help keep contributions more balanced. This type of interaction introduces a more asynchronous activity that allows users to gradually contribute to a town over time, encouraging them to return to a town to continue their masterpiece and see what others have added to it. Additionally, users can interact through the comments section, and download the artwork as a jpg or mp4 to share with friends. After a certain amount of time has passed, the canvas is wiped to allow a new creation to be made, making space for new forms of expression. Past canvases are stored on an art wall for users to view and rewatch the creation process.
+Our project idea, inspired by the collaborative project r/place on Reddit, was to implement an interactable area that allowed users to work together to incrementally contribute to a large digital canvas. The driving idea behind r/place is that “Individually, you can create something, but together, you can create something more,” and our own feature is driven by this core idea. We consider this a way to introduce a more permanent marker of progress in an application that focuses primarily on temporarily interactable areas. Using a grid system where a tile represents one “pixel”, a player can choose to change the color of one square at a time using a color picker. Players can paint over any pixel but are restricted to painting only one per allotted amount of time, to help keep contributions more balanced. This type of interaction introduces a more asynchronous activity that allows users to gradually contribute to a town over time, encouraging them to return to a town to continue their masterpiece and see what others have added to it. Additionally, users can interact through the comments section, and download the artwork as a jpg or mp4 to share with friends. After a certain amount of time has passed, the canvas is wiped to allow a new creation to be made, making space for new forms of expression. Past canvases are stored on an art wall for users to view and rewatch the creation process.
+
+## Major Features
+
+### Canvas
 
 ![alt text](/CPlaceCover.png)
 
@@ -23,7 +27,24 @@ egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
 ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
 purus non. Amet dictum sit amet justo donec enim.
 
-<video src="/CPlaceDemo.mp4" width="320" height="240" controls></video>
+### Comment Section
+
+Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
+sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
+Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
+fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
+egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
+turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
+nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
+vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
+praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
+egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
+ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
+purus non. Amet dictum sit amet justo donec enim.
+
+### Gallery
+
+<video src="/CPlaceDemo.mp4" width="1000" height="800" controls></video>
 
 Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
 consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
