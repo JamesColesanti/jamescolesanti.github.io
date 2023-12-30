@@ -1,7 +1,7 @@
 ---
 title: "Project Monarch"
 description: "Search engine for Lucy's Love Bus that helps children with life-threatening illnesses find practitioners in their area"
-pubDate: "September 2023"
+pubDate: "September 1, 2022"
 heroImage: "/TuneTalkCover.png"
 tags: ["JavaScript", "React.js"]
 ---

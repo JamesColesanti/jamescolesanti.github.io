@@ -1,7 +1,7 @@
 ---
 title: "Image Processing App"
 description: "Java application for applying various filters and effects to images"
-pubDate: "May 2021"
+pubDate: "October 1, 2023"
 heroImage: "/TuneTalkCover.png"
 tags: ["Java", "Java Swing", "MVC"]
 ---
