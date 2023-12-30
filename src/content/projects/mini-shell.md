@@ -1,9 +1,9 @@
 ---
-title: "Project Monarch"
-description: "Search engine for Lucy's Love Bus that helps children with life-threatening illnesses find practitioners in their area"
-pubDate: "September 2023"
-heroImage: "/TuneTalkCover.png"
-tags: ["JavaScript", "React.js"]
+title: "Mini Shell"
+description: "Shell coded in C as part of computer systems course project"
+pubDate: "September 2021"
+heroImage: "/ShellCover.png"
+tags: ["C", "Linux"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
