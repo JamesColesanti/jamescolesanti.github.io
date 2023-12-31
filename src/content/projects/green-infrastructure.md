@@ -1,7 +1,7 @@
 ---
 title: "Green Infrastructure Web Application"
 description: "Site built for the City of Boston to promote climate justice among residents"
-pubDate: "Oct 1 2023"
+pubDate: "7"
 heroImage: "/GICover.png"
 tags: ["TypeScript", "React.js", "Google Maps API", "AWS Cognito"]
 ---

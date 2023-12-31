@@ -1,7 +1,7 @@
 ---
 title: "Project Monarch"
 description: "Search engine for Lucy's Love Bus that helps children with life-threatening illnesses find practitioners in their area"
-pubDate: "Sep 1 2022"
+pubDate: "3"
 heroImage: "/MonarchCover.png"
 tags: ["TypeScript", "React.js", "AWS Cognito", "AWS Lambda"]
 ---

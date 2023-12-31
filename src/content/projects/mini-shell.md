@@ -1,7 +1,7 @@
 ---
 title: "Mini Shell"
 description: "Shell coded in C as part of computer systems course project"
-pubDate: "Sep 1 2021"
+pubDate: "2"
 heroImage: "/ShellCover.png"
 tags: ["C", "Linux"]
 ---

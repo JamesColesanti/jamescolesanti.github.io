@@ -1,7 +1,7 @@
 ---
 title: "TuneTalk"
 description: "Site that allows users to search for albums from Spotify and write reviews"
-pubDate: "Mar 15 2023"
+pubDate: "5"
 heroImage: "/TuneTalkCover.png"
 tags: ["JavaScript", "React.js"]
 ---
