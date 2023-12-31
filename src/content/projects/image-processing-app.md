@@ -13,28 +13,28 @@ Repository: https://github.com/JamesColesanti/Image-Processing-GUI
 ### Example
 
 #### Original (970x450)
-![alt text](/ImageExampleOriginal.jpg)
+![alt text](/ImageAppOriginal.jpg)
 
 #### Monochrome + Sharpen
-![alt text](/ImageExampleMonoSharp.jpg)
+![alt text](/ImageAppMonoSharp.jpg)
 
 #### Sepia + Sharpen
-![alt text](/ImageExampleSepiaSharp.jpg)
+![alt text](/ImageAppSepiaSharp.jpg)
 
 #### Mosaic with 1000 Seeds
-![alt text](/ImageExampleMosaic1000.jpg)
+![alt text](/ImageAppMosaic1000.jpg)
 
 #### Mosaic with 4000 Seeds
-![alt text](/ImageExampleMosaic4000.jpg)
+![alt text](/ImageAppMosaic4000.jpg)
 
 #### Mosaic with 8000 Seeds
-![alt text](/ImageExampleMosaic8000.jpg)
+![alt text](/ImageAppMosaic8000.jpg)
 
 #### Mosaic with 15000 Seeds
-![alt text](/ImageExampleMosaic15000.jpg)
+![alt text](/ImageAppMosaic15000.jpg)
 
 #### Downscale to 400x400
-![alt text](/ImageExampleDown400x400.jpg)
+![alt text](/ImageAppDown400x400.jpg)
 
 #### Downscale to 700x300
-![alt text](/ImageExampleDown700x300.jpg)
+![alt text](/ImageAppDown700x300.jpg)
