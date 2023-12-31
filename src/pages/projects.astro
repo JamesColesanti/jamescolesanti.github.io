@@ -17,7 +17,7 @@ const posts = (await getCollection("projects")).sort((a, b) => b.data.pubDate.va
         <HorizontalCard
           title={post.data.title}
           img={post.data.heroImage}
-          desc={post.data.desc}
+          desc={post.data.description}
           url={"/projects/" + post.slug}
           target="_self"
           badge={post.data.badge}
