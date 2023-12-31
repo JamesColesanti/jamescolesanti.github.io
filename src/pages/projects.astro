@@ -12,6 +12,7 @@ const posts = (await getCollection("projects")).sort((a, b) => a.data.pubDate.va
   </div>
 
   {
+    
     posts.map((post) => (
       <>
         <HorizontalCard

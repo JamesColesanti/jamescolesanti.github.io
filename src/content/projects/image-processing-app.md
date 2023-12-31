@@ -1,7 +1,7 @@
 ---
 title: "Image Processing App"
 description: "Java application for applying various filters and effects to images"
-pubDate: "May 2021"
+pubDate: "May 1 2021"
 heroImage: "/ImageAppCover.jpg"
 tags: ["Java", "Java Swing", "MVC"]
 ---

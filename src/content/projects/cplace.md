@@ -1,7 +1,7 @@
 ---
 title: "C/Place: Collaborative Pixel-Art Board"
 description: "Multiplayer game added to existing application for software engineering class final project"
-pubDate: "April 15, 2023"
+pubDate: "Apr 15 2023"
 heroImage: "/CPlaceCover.png"
 tags: ["TypeScript", "React.js", "Socket.IO", "Chakra UI", "REST API"]
 ---

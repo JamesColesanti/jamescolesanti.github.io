@@ -1,7 +1,7 @@
 ---
 title: "Bostonography"
 description: "Data visualization of the City of Boston's 2021 Reported Energy and Water Metrics"
-pubDate: "March 1, 2023"
+pubDate: "Mar 1 2023"
 heroImage: "/BostonographyCover.png"
 tags: ["JavaScript", "React.js"]
 ---
