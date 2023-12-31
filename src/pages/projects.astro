@@ -11,14 +11,14 @@ console.log(posts);
   <div>
     <div class="text-3xl w-full font-bold mb-5">Projects</div>
   </div>
-
+  
   {
     posts.map((post) => (
       <>
         <HorizontalCard
           title={post.data.title}
           img={post.data.heroImage}
-          desc={post.data.description}
+          desc={post.data}
           url={"/projects/" + post.slug}
           target="_self"
           badge={post.data.badge}
