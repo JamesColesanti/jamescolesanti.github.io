@@ -18,7 +18,7 @@ console.log(posts);
         <HorizontalCard
           title={post.data.title}
           img={post.data.heroImage}
-          desc={JSON.stringify(post.data)}
+          desc={post.data.pubDate.valueOf()}
           url={"/projects/" + post.slug}
           target="_self"
           badge={post.data.badge}
