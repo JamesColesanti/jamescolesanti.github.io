@@ -4,7 +4,6 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 import { getCollection } from "astro:content";
 
 const posts = (await getCollection("projects")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-console.log(posts);
 ---
 
 <BaseLayout title = "Projects" sideBarActiveItemID="projects">
@@ -18,7 +17,7 @@ console.log(posts);
         <HorizontalCard
           title={post.data.title}
           img={post.data.heroImage}
-          desc={post.data.pubDate.valueOf()}
+          desc={post.data.desc}
           url={"/projects/" + post.slug}
           target="_self"
           badge={post.data.badge}
