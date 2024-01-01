@@ -6,7 +6,7 @@ heroImage: "/BostonographyCover.png"
 tags: ["JavaScript", "React.js"]
 ---
 
-This project was for my Bostonography class, which explored the Boston through various datasets. I chose to examine data related to energy and emissions data from 2021.
+This project was for my Bostonography class, which explored Boston through various datasets. I chose to examine data related to energy and emissions data from 2021. The site below shows the graphs I made using React, as well as an analysis of what conclusions can be drawn from the data.
 
 ### Links
 
