@@ -13,8 +13,20 @@ Repository: https://github.com/JamesColesanti/tunetalk-react-web-app
 ### Major Features
 
 #### Search for Albums
+Anyone who visits the site can use the search feature. Results come directly from the Spotify API, allowing the site to stay up-to-date with all the latest releases. Clicking a result will bring up that album's TuneTalk page, which displays any reviews that have been written.
 
-#### Write Reviews
+![alt text](/TuneTalkSearch.png)
 
-#### (Admin) Moderate Users
+#### Write/View Reviews
+On an album's custom page, users can view previously written review and write their own. Users will need to create an account on TuneTalk in order to write reviews.
 
+![alt text](/TuneTalkWriteReviews.png)
+
+#### (Admin) Moderate Users/Reviews
+Admin users can moderate the site through a custom portal. This allows admins to view all users, and remove any if necessary. They can also make other users admins.
+
+![alt text](/TuneTalkAdminModUsers.png)
+
+Another feature specific for admin users is the ability to delete certain reviews. When an admin is logged in, an "X" will appear in the top right corner of every reviews. This can be clicked to delete the review.
+
+![alt text](/TuneTalkAdminModReviews.png)
