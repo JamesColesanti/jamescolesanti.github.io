@@ -27,6 +27,6 @@ Admin users can moderate the site through a custom portal. This allows admins to
 
 ![alt text](/TuneTalkAdminModUsers.png)
 
-Another feature specific for admin users is the ability to delete certain reviews. When an admin is logged in, an "X" will appear in the top right corner of every reviews. This can be clicked to delete the review.
+Another feature specific for admin users is the ability to delete certain reviews. When an admin is logged in, an "X" will appear in the top right corner of every review. This can be clicked to delete the review.
 
 ![alt text](/TuneTalkAdminModReviews.png)
