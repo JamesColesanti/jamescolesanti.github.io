@@ -6,7 +6,7 @@ import { getCollection } from "astro:content";
 const posts = (await getCollection("projects")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<BaseLayout title = "Projects" sideBarActiveItemID="projects">
+<BaseLayout title = "James Colesanti | Projects" sideBarActiveItemID="projects">
   <div>
     <div class="text-3xl w-full font-bold mb-5">Projects</div>
   </div>
